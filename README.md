@@ -80,3 +80,5 @@ Translations are periodically pulled from Transifex and merged into the git repo
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f801ee72-3979-43b4-b269-1b2c3743b5b9/deploy-status)](https://app.netlify.com/sites/pinkdiamondbtc/deploys)
