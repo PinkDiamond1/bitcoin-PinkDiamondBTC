@@ -82,3 +82,10 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f801ee72-3979-43b4-b269-1b2c3743b5b9/deploy-status)](https://app.netlify.com/sites/pinkdiamondbtc/deploys)
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@transifex/native/dist/browser.native.min.js"></script>
+const tx = Transifex.tx;
+const t = Transifex.t;
+tx.init({
+  token: '1/99979336947c7aaea59489ce1d1fffc98eaa500c',
+});
