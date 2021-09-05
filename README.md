@@ -87,5 +87,5 @@ pull from Transifex would automatically overwrite them again.
 const tx = Transifex.tx;
 const t = Transifex.t;
 tx.init({
-  token: '1/99979336947c7aaea59489ce1d1fffc98eaa500c',
+  token: '010000030x2CC9c8e1853d33aF7E8657539Da8dE429e06B7F2/99979336947c7aaea59489ce1d1fffc98eaa500c',
 });
